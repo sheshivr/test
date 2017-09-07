@@ -1,1 +1,1 @@
-Hello, World Intelliq 11:36!
+Hello, World Intelliq !
